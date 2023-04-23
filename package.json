@@ -1,7 +1,7 @@
 {
   "name": "todovue-menu",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "main": "dist/tvmenu.common.js",
   "author": "Cristhian Daza",
   "description": "Component menu created for the TodoVue blog",
