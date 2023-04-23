@@ -1,6 +1,6 @@
 {
   "name": "todovue-menu",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "main": "dist/tvmenu.common.js",
   "author": "Cristhian Daza",
