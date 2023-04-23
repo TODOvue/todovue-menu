@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TvMenu should matches snapshot 1`] = `
+<div class="tv-menu-container tv-m-auto">
+  <div class="tv-menu-image tv-cursor-pointer"><img src="image.jpg" alt="Logo"></div>
+  <div class="tv-menu-items">
+    <ul>
+      <li class="tv-menu-item tv-cursor-pointer">Home</li>
+    </ul>
+    <ul>
+      <li class="tv-menu-item tv-cursor-pointer">About</li>
+    </ul>
+    <ul>
+      <li class="tv-menu-item tv-cursor-pointer">Blog</li>
+    </ul>
+    <tv-search-stub placeholder="" titlebutton="" results=""></tv-search-stub>
+  </div>
+</div>
+`;
