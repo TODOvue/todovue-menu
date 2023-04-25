@@ -277,7 +277,7 @@ return /******/ (function() { // webpackBootstrap
       /***/
     },
 
-    /***/89: /***/function (__unused_webpack_module, exports) {
+    /***/129: /***/function (__unused_webpack_module, exports) {
       "use strict";
 
       var __webpack_unused_export__;
@@ -314,7 +314,7 @@ return /******/ (function() { // webpackBootstrap
   /******/
   /******/ // The require function
   /******/
-  function __nested_webpack_require_11793__(moduleId) {
+  function __nested_webpack_require_11794__(moduleId) {
     /******/ // Check if module is in cache
     /******/var cachedModule = __webpack_module_cache__[moduleId];
     /******/
@@ -333,7 +333,7 @@ return /******/ (function() { // webpackBootstrap
     /******/
     /******/ // Execute the module function
     /******/
-    __webpack_modules__[moduleId](module, module.exports, __nested_webpack_require_11793__);
+    __webpack_modules__[moduleId](module, module.exports, __nested_webpack_require_11794__);
     /******/
     /******/ // Return the exports of the module
     /******/
@@ -346,14 +346,14 @@ return /******/ (function() { // webpackBootstrap
   /******/
   !function () {
     /******/ // getDefaultExport function for compatibility with non-harmony modules
-    /******/__nested_webpack_require_11793__.n = function (module) {
+    /******/__nested_webpack_require_11794__.n = function (module) {
       /******/var getter = module && module.__esModule ? /******/function () {
         return module['default'];
       } : /******/function () {
         return module;
       };
       /******/
-      __nested_webpack_require_11793__.d(getter, {
+      __nested_webpack_require_11794__.d(getter, {
         a: getter
       });
       /******/
@@ -367,9 +367,9 @@ return /******/ (function() { // webpackBootstrap
   /******/
   !function () {
     /******/ // define getter functions for harmony exports
-    /******/__nested_webpack_require_11793__.d = function (exports, definition) {
+    /******/__nested_webpack_require_11794__.d = function (exports, definition) {
       /******/for (var key in definition) {
-        /******/if (__nested_webpack_require_11793__.o(definition, key) && !__nested_webpack_require_11793__.o(exports, key)) {
+        /******/if (__nested_webpack_require_11794__.o(definition, key) && !__nested_webpack_require_11794__.o(exports, key)) {
           /******/Object.defineProperty(exports, key, {
             enumerable: true,
             get: definition[key]
@@ -386,7 +386,7 @@ return /******/ (function() { // webpackBootstrap
   /******/ /* webpack/runtime/hasOwnProperty shorthand */
   /******/
   !function () {
-    /******/__nested_webpack_require_11793__.o = function (obj, prop) {
+    /******/__nested_webpack_require_11794__.o = function (obj, prop) {
       return Object.prototype.hasOwnProperty.call(obj, prop);
     };
     /******/
@@ -395,7 +395,7 @@ return /******/ (function() { // webpackBootstrap
   /******/ /* webpack/runtime/publicPath */
   /******/
   !function () {
-    /******/__nested_webpack_require_11793__.p = "";
+    /******/__nested_webpack_require_11794__.p = "";
     /******/
   }();
   /******/
@@ -406,7 +406,7 @@ return /******/ (function() { // webpackBootstrap
     "use strict";
 
     // EXPORTS
-    __nested_webpack_require_11793__.d(__nested_webpack_exports__, {
+    __nested_webpack_require_11794__.d(__nested_webpack_exports__, {
       "default": function () {
         return (/* binding */entry_lib
         );
@@ -421,7 +421,7 @@ return /******/ (function() { // webpackBootstrap
       if (false) { var getCurrentScript; }
       var src = currentScript && currentScript.src.match(/(.+\/)[^/]+\.js(\?.*)?$/);
       if (src) {
-        __nested_webpack_require_11793__.p = src[1]; // eslint-disable-line
+        __nested_webpack_require_11794__.p = src[1]; // eslint-disable-line
       }
     }
 
@@ -430,8 +430,8 @@ return /******/ (function() { // webpackBootstrap
     var setPublicPath = null;
 
     // EXTERNAL MODULE: external {"commonjs":"vue","commonjs2":"vue","root":"Vue"}
-    var external_commonjs_vue_commonjs2_vue_root_Vue_ = __nested_webpack_require_11793__(797);
-    ; // CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/component/TvSearch.vue?vue&type=template&id=ac044fe2
+    var external_commonjs_vue_commonjs2_vue_root_Vue_ = __nested_webpack_require_11794__(797);
+    ; // CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/component/TvSearch.vue?vue&type=template&id=7bde4cee
 
     const _hoisted_1 = {
       class: "tv-search"
@@ -483,11 +483,11 @@ return /******/ (function() { // webpackBootstrap
         }, (0, external_commonjs_vue_commonjs2_vue_root_Vue_.toDisplayString)(result.title), 1);
       }), 128))])) : (0, external_commonjs_vue_commonjs2_vue_root_Vue_.createCommentVNode)("", true)])])) : (0, external_commonjs_vue_commonjs2_vue_root_Vue_.createCommentVNode)("", true)], 64);
     }
-    ; // CONCATENATED MODULE: ./src/component/TvSearch.vue?vue&type=template&id=ac044fe2
+    ; // CONCATENATED MODULE: ./src/component/TvSearch.vue?vue&type=template&id=7bde4cee
 
     // EXTERNAL MODULE: ./node_modules/todovue-button/dist/tvbutton.common.js
-    var tvbutton_common = __nested_webpack_require_11793__(8);
-    var tvbutton_common_default = /*#__PURE__*/__nested_webpack_require_11793__.n(tvbutton_common);
+    var tvbutton_common = __nested_webpack_require_11794__(8);
+    var tvbutton_common_default = /*#__PURE__*/__nested_webpack_require_11794__.n(tvbutton_common);
     ; // CONCATENATED MODULE: ./src/composables/useSearch.js
 
     const useSearch = results => {
@@ -498,7 +498,6 @@ return /******/ (function() { // webpackBootstrap
         document.removeEventListener("keydown", changeModalOpened);
       });
       const inputValue = (0, external_commonjs_vue_commonjs2_vue_root_Vue_.ref)("");
-      const theme = (0, external_commonjs_vue_commonjs2_vue_root_Vue_.ref)("dark");
       const openedModal = (0, external_commonjs_vue_commonjs2_vue_root_Vue_.ref)(false);
       const inputSearch = (0, external_commonjs_vue_commonjs2_vue_root_Vue_.ref)();
       const instance = (0, external_commonjs_vue_commonjs2_vue_root_Vue_.getCurrentInstance)();
@@ -543,7 +542,6 @@ return /******/ (function() { // webpackBootstrap
         inputValue,
         inputSearch,
         openedModal,
-        theme,
         changeModalOpened,
         closeModal,
         openModal,
@@ -557,7 +555,7 @@ return /******/ (function() { // webpackBootstrap
 
     /* harmony default export */
     var TvSearchvue_type_script_lang_js = {
-      name: "SearchBox",
+      name: "TvSearch",
       props: {
         placeholder: {
           type: String,
@@ -577,7 +575,6 @@ return /******/ (function() { // webpackBootstrap
           inputValue,
           inputSearch,
           openedModal,
-          theme,
           changeModalOpened,
           closeModal,
           openModal,
@@ -588,7 +585,6 @@ return /******/ (function() { // webpackBootstrap
           inputValue,
           inputSearch,
           openedModal,
-          theme,
           changeModalOpened,
           closeModal,
           openModal,
@@ -604,7 +600,7 @@ return /******/ (function() { // webpackBootstrap
     ; // CONCATENATED MODULE: ./src/component/TvSearch.vue?vue&type=script&lang=js
 
     // EXTERNAL MODULE: ./node_modules/vue-loader/dist/exportHelper.js
-    var exportHelper = __nested_webpack_require_11793__(89);
+    var exportHelper = __nested_webpack_require_11794__(129);
     ; // CONCATENATED MODULE: ./src/component/TvSearch.vue
 
     ;
@@ -744,10 +740,10 @@ if (typeof window !== 'undefined') {
 
 // EXTERNAL MODULE: external {"commonjs":"vue","commonjs2":"vue","root":"Vue"}
 var external_commonjs_vue_commonjs2_vue_root_Vue_ = __webpack_require__(203);
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/component/TvMenu.vue?vue&type=template&id=79842a23
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/component/TvMenu.vue?vue&type=template&id=0c2388b0
 
 const _hoisted_1 = {
-  class: "tv-menu-container tv-m-auto"
+  class: "tv-menu-container"
 };
 const _hoisted_2 = {
   class: "tv-menu-image tv-cursor-pointer"
@@ -757,31 +753,50 @@ const _hoisted_4 = {
   class: "tv-menu-items"
 };
 const _hoisted_5 = ["onClick"];
+const _hoisted_6 = {
+  key: 0,
+  class: "tv-menu-items-mobile"
+};
+const _hoisted_7 = ["onClick"];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_tv_search = (0,external_commonjs_vue_commonjs2_vue_root_Vue_.resolveComponent)("tv-search");
-  return (0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)("div", _hoisted_1, [(0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("div", _hoisted_2, [(0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("img", {
+  return (0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)("header", _hoisted_1, [(0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("nav", _hoisted_2, [(0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("img", {
     src: $props.imageMenu,
     alt: "Logo",
     onClick: _cache[0] || (_cache[0] = (...args) => $setup.handleClickImage && $setup.handleClickImage(...args))
-  }, null, 8, _hoisted_3)]), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("div", _hoisted_4, [((0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(true), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)(external_commonjs_vue_commonjs2_vue_root_Vue_.Fragment, null, (0,external_commonjs_vue_commonjs2_vue_root_Vue_.renderList)($props.menus, menu => {
+  }, null, 8, _hoisted_3)]), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("section", _hoisted_4, [((0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(true), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)(external_commonjs_vue_commonjs2_vue_root_Vue_.Fragment, null, (0,external_commonjs_vue_commonjs2_vue_root_Vue_.renderList)($props.menus, menu => {
     return (0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)("ul", {
       key: menu.id
     }, [(0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("li", {
       class: "tv-menu-item tv-cursor-pointer",
       onClick: $event => $setup.handleClickMenu(menu)
     }, (0,external_commonjs_vue_commonjs2_vue_root_Vue_.toDisplayString)(menu.title), 9, _hoisted_5)]);
-  }), 128)), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createVNode)(_component_tv_search, {
+  }), 128)), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("i", {
+    class: "tv-icon tv-icon-position-right tv-menu-icon tv-cursor-pointer",
+    onClick: _cache[1] || (_cache[1] = $event => $setup.manageViewMenu(true))
+  }), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createVNode)(_component_tv_search, {
     placeholder: $props.placeholder,
     titleButton: $props.titleButton,
     onSearch: $setup.handleSearch
-  }, null, 8, ["placeholder", "titleButton", "onSearch"])])]);
+  }, null, 8, ["placeholder", "titleButton", "onSearch"]), $setup.showMenu ? ((0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)("div", _hoisted_6, [(0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("i", {
+    class: "tv-icon tv-menu-icon-cancel tv-cursor-pointer",
+    onClick: _cache[2] || (_cache[2] = $event => $setup.manageViewMenu(false))
+  }), ((0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(true), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)(external_commonjs_vue_commonjs2_vue_root_Vue_.Fragment, null, (0,external_commonjs_vue_commonjs2_vue_root_Vue_.renderList)($props.menus, menu => {
+    return (0,external_commonjs_vue_commonjs2_vue_root_Vue_.openBlock)(), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementBlock)("ul", {
+      key: menu.id
+    }, [(0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("li", {
+      class: "tv-menu-item-mobile tv-cursor-pointer",
+      onClick: $event => $setup.handleClickMenu(menu)
+    }, (0,external_commonjs_vue_commonjs2_vue_root_Vue_.toDisplayString)(menu.title), 9, _hoisted_7)]);
+  }), 128))])) : (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createCommentVNode)("", true)])]);
 }
-;// CONCATENATED MODULE: ./src/component/TvMenu.vue?vue&type=template&id=79842a23
+;// CONCATENATED MODULE: ./src/component/TvMenu.vue?vue&type=template&id=0c2388b0
 
 // EXTERNAL MODULE: ./node_modules/todovue-search/dist/tvsearch.common.js
 var tvsearch_common = __webpack_require__(127);
 var tvsearch_common_default = /*#__PURE__*/__webpack_require__.n(tvsearch_common);
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/component/TvMenu.vue?vue&type=script&lang=js
+
 
 /* harmony default export */ var TvMenuvue_type_script_lang_js = ({
   name: "TvMenu",
@@ -809,19 +824,28 @@ var tvsearch_common_default = /*#__PURE__*/__webpack_require__.n(tvsearch_common
   setup(_, {
     emit
   }) {
+    const showMenu = (0,external_commonjs_vue_commonjs2_vue_root_Vue_.ref)(false);
     const handleClickImage = () => {
       emit("clickImage");
     };
     const handleClickMenu = menu => {
+      if (showMenu.value) {
+        manageViewMenu(false);
+      }
       emit("clickMenu", menu);
     };
     const handleSearch = search => {
       emit("searchMenu", search);
     };
+    const manageViewMenu = value => {
+      showMenu.value = value;
+    };
     return {
+      showMenu,
       handleClickImage,
       handleClickMenu,
-      handleSearch
+      handleSearch,
+      manageViewMenu
     };
   },
   emits: ["clickImage", "clickMenu", "searchMenu"]
