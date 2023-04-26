@@ -5,6 +5,7 @@
   "main": "dist/tvmenu.common.js",
   "author": "Cristhian Daza",
   "description": "Component menu created for the TodoVue blog",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/TODOvue/todovue-menu.git"
@@ -28,9 +29,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "todovue-css": "^1.6.0",
-    "todovue-demo": "^2.2.1",
-    "todovue-search": "^1.0.4",
+    "todovue-css": "^1.7.0",
+    "todovue-demo": "^2.3.0",
+    "todovue-search": "^1.1.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
