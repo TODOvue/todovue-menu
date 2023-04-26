@@ -13,7 +13,7 @@
         </li>
       </ul>
       <i
-        class="tv-icon tv-icon-position-right tv-menu-icon tv-cursor-pointer"
+        class="tv-icon tv-menu-icon tv-cursor-pointer"
         @click="manageViewMenu(true)"
       ></i>
       <tv-search

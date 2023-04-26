@@ -12,7 +12,7 @@ exports[`TvMenu should matches snapshot 1`] = `
     </ul>
     <ul>
       <li class="tv-menu-item tv-cursor-pointer">Blog</li>
-    </ul><i class="tv-icon tv-icon-position-right tv-menu-icon tv-cursor-pointer"></i>
+    </ul><i class="tv-icon tv-menu-icon tv-cursor-pointer"></i>
     <tv-search-stub placeholder="" titlebutton="" results=""></tv-search-stub>
     <!--v-if-->
   </section>
