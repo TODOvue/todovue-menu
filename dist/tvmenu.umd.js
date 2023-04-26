@@ -740,7 +740,7 @@ if (typeof window !== 'undefined') {
 
 // EXTERNAL MODULE: external {"commonjs":"vue","commonjs2":"vue","root":"Vue"}
 var external_commonjs_vue_commonjs2_vue_root_Vue_ = __webpack_require__(203);
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/component/TvMenu.vue?vue&type=template&id=0c2388b0
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-82.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/component/TvMenu.vue?vue&type=template&id=6dbb8845
 
 const _hoisted_1 = {
   class: "tv-menu-container"
@@ -772,7 +772,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       onClick: $event => $setup.handleClickMenu(menu)
     }, (0,external_commonjs_vue_commonjs2_vue_root_Vue_.toDisplayString)(menu.title), 9, _hoisted_5)]);
   }), 128)), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createElementVNode)("i", {
-    class: "tv-icon tv-icon-position-right tv-menu-icon tv-cursor-pointer",
+    class: "tv-icon tv-menu-icon tv-cursor-pointer",
     onClick: _cache[1] || (_cache[1] = $event => $setup.manageViewMenu(true))
   }), (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createVNode)(_component_tv_search, {
     placeholder: $props.placeholder,
@@ -790,7 +790,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     }, (0,external_commonjs_vue_commonjs2_vue_root_Vue_.toDisplayString)(menu.title), 9, _hoisted_7)]);
   }), 128))])) : (0,external_commonjs_vue_commonjs2_vue_root_Vue_.createCommentVNode)("", true)])]);
 }
-;// CONCATENATED MODULE: ./src/component/TvMenu.vue?vue&type=template&id=0c2388b0
+;// CONCATENATED MODULE: ./src/component/TvMenu.vue?vue&type=template&id=6dbb8845
 
 // EXTERNAL MODULE: ./node_modules/todovue-search/dist/tvsearch.common.js
 var tvsearch_common = __webpack_require__(127);
